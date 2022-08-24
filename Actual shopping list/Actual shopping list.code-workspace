@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Shopping-lis",
+			"path": "Shopping-lis"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Actual shopping list"
+	}
+}
